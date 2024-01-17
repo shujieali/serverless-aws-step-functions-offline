@@ -1,0 +1,37 @@
+{
+  "name": "serverless-aws-step-functions-offline",
+  "version": "2.0.0",
+  "description": "Run AWS step functions offline with Serverless",
+  "main": "index.js",
+  "scripts": {},
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.810.0",
+    "chalk": "^4.1.0",
+    "stepfunctions-localhost": "^0.2.0",
+    "tcp-port-used": "^1.0.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "⚡️",
+    "serverless",
+    "serverless offline",
+    "serverless plugin",
+    "plugin",
+    "sls",
+    "offline",
+    "local",
+    "step functions",
+    "state machines",
+    "step",
+    "function",
+    "state",
+    "machine",
+    "aws"
+  ],
+  "homepage": "https://github.com/evennode/serverless-step-functions-local-docker#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evennode/serverless-step-functions-local-docker.git"
+  }
+}
