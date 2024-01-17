@@ -1,4 +1,4 @@
-# serverless-step-functions-local-docker
+# serverless-aws-step-functions-offline
 
 [![NPM Version][npm-version-image]][npm-url]
 
